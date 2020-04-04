@@ -1,10 +1,8 @@
 <h1 align="center">
+    <h1>Twitter with FlexBox</h1>
     <img alt="BeTheHero" src="/images/Twitter.png" />
 </h1>
 
-<h4 align="center">
-  Twitter with FlexBox
-</h4>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Adryell/Twitter-with-flexbox">
 
@@ -33,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Esse projeto foi desenvolvido visando o aprendizado do do CSS com FlexBox.
+Esse projeto foi desenvolvido visando o aprendizado do CSS com FlexBox.
 
 ---
 
