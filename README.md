@@ -1,5 +1,6 @@
+<h1 align="center">Twitter with FlexBox</h1>
+
 <h1 align="center">
-    <h1>Twitter with FlexBox</h1>
     <img alt="BeTheHero" src="/images/Twitter.png" />
 </h1>
 
@@ -16,7 +17,7 @@
 
 <p align="center">
   <a href="#rocket-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">💻 Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">💻 Projeto</a>
 </p>
 
 <br>
